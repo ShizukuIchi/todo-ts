@@ -1,4 +1,4 @@
-Todo List by Typescript
+Todo List by Typescript & React
 ===
 
 ## Usage
