@@ -2,7 +2,9 @@ import * as React from 'react';
 import { render } from 'react-dom';
 import App from './components/App';
 
+import './index.css';
+
 render(
-    <App message="World" />,
+    <App />,
     document.getElementById('root'),
 );
