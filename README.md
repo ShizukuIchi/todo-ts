@@ -6,5 +6,6 @@ Todo List by Typescript & React
 yarn build
 yarn serve
 ```
-## Demo
-[this is demo.](http://todo-ts.csie.io) :)
+## [Demo](https://sh1zuku.csie.io/todo-ts/)
+
+![](https://i.imgur.com/B5ZR990.png)
